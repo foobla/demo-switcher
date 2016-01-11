@@ -1,4 +1,4 @@
-var $items, $defaultItem = 'careers_html';
+var $items, $defaultItem = 'educationwp';
 
 
 
@@ -6,7 +6,7 @@ var $items, $defaultItem = 'careers_html';
 // ---------------------------------------------------------
 $items = {
 
-  bingo_wordpress: {
+  educationwp: {
     name      : 'Education WP',
     tag       : 'Education',
     img       : '//preview-tf.s3.envato.com/files/162135744/01_preview.__large_preview.jpg',
@@ -16,7 +16,7 @@ $items = {
     responsive: false // To disable responsiveness buttons
   },
 
-  casa_wordpress: {
+  nem: {
     name      : 'NEM',
     tag       : 'Restaurant',
     img       : '//preview-tf.s3.envato.com/files/161769376/01_preview.__large_preview.jpg',
@@ -25,7 +25,7 @@ $items = {
     tooltip   : 'Restaurant WordPress Theme'
   },
 
-  takeaway_wordpress: {
+  cakeart: {
     name      : 'Cake Art',
     tag       : 'Cake',
     img       : '//preview-tf.s3.envato.com/files/159420768/01_preview.__large_preview.jpg',
@@ -34,7 +34,7 @@ $items = {
     tooltip   : 'Bakery & Cake WordPress Theme'
   },
 
-  globo_html: {
+  garage: {
     name      : 'Garage',
     tag       : 'Automotive',
     img       : '//preview-tf.s3.envato.com/files/162508231/01_preview.__large_preview.jpg',
@@ -43,7 +43,7 @@ $items = {
     tooltip   : 'Car Dealer Automotive WordPress Theme'
   },
 
-  careers_html: {
+  sailing: {
     name      : 'Sailing',
     tag       : 'Hotel',
     img       : '//preview-tf.s3.envato.com/files/154249458/01_preview.__large_preview.jpg',
@@ -52,7 +52,7 @@ $items = {
     tooltip   : 'Hotel WordPress Theme'
   },
 
-  casa_html: {
+  fastex: {
     name      : 'FastEx',
     tag       : 'Logistics',
     img       : '//preview-tf.s3.envato.com/files/145963850/01_preview.__large_preview.jpg',
@@ -61,7 +61,7 @@ $items = {
     tooltip   : 'Logistics WordPress Theme'
   },
 
-  casa_html: {
+  neymar: {
     name      : 'Neymar',
     tag       : 'Shop',
     img       : '//preview-tf.s3.envato.com/files/142732760/01_preview.__large_preview.jpg',
@@ -70,7 +70,7 @@ $items = {
     tooltip   : 'Responsive WordPress Theme'
   },
 
-  casa_html: {
+  resca: {
     name      : 'Resca',
     tag       : 'Restaurant',
     img       : '//preview-tf.s3.envato.com/files/165425174/01_preview.__large_preview.jpg',
@@ -79,7 +79,7 @@ $items = {
     tooltip   : 'WordPress Restaurant Theme'
   },
 
-  casa_html: {
+  elearningwp: {
     name      : 'eLearning WP',
     tag       : 'LMS',
     img       : '//preview-tf.s3.envato.com/files/137786552/01_preview.__large_preview.jpg',
@@ -88,7 +88,7 @@ $items = {
     tooltip   : 'LMS WordPress Theme'
   },
 
-  casa_html: {
+  adot: {
     name      : 'adot',
     tag       : 'Shop',
     img       : '//preview-tf.s3.envato.com/files/139402308/01_preview.__large_preview.jpg',
@@ -97,7 +97,7 @@ $items = {
     tooltip   : 'Ultimate WooCommerce WordPress Theme'
   },
 
-  casa_html: {
+  flyshop: {
     name      : 'Flyshop',
     tag       : 'Shop',
     img       : '//preview-tf.s3.envato.com/files/135247165/01_preview.__large_preview.jpg',
@@ -106,7 +106,7 @@ $items = {
     tooltip   : 'Responsive WooCommerce WordPress Theme'
   },
 
-  casa_html: {
+  zoneshop: {
     name      : 'ZoneShop',
     tag       : 'Shop',
     img       : '//preview-tf.s3.envato.com/files/128185106/01_preview.__large_preview.jpg',
@@ -115,7 +115,7 @@ $items = {
     tooltip   : 'Swap, Book & Rent'
   },
 
-  casa_html: {
+  purify: {
     name      : 'Purify',
     tag       : 'Cleaning Service',
     img       : '//preview-tf.s3.envato.com/files/128405813/01_preview.__large_preview.jpg',
@@ -124,7 +124,7 @@ $items = {
     tooltip   : 'Cleaning Service WordPress Theme'
   },
 
-  casa_html: {
+  exchangeshop: {
     name      : 'Exchange Shop',
     tag       : 'Shop',
     img       : '//preview-tf.s3.envato.com/files/124305242/01_preview.__large_preview.jpg',
@@ -133,7 +133,7 @@ $items = {
     tooltip   : 'Exchange Shop WordPress Theme'
   },
   
-  casa_html: {
+  aloxo: {
     name      : 'Aloxo',
     tag       : 'Shop',
     img       : '//preview-tf.s3.envato.com/files/117827108/01_preview.__large_preview.png',
@@ -142,7 +142,7 @@ $items = {
     tooltip   : 'Responsive WooCommerce WordPress Theme'
   },
 
-  casa_html: {
+  deskpress: {
     name      : 'DeskPress',
     tag       : 'HelpDesk',
     img       : '//preview-tf.s3.envato.com/files/109009562/01_preview.__large_preview.jpg',
@@ -150,7 +150,8 @@ $items = {
     purchase  : '//themeforest.net/item/deskpress-effortless-helpdesk-support-wordpress-/9167183?ref=thimpress',
     tooltip   : 'Effortless Helpdesk WordPress Theme'
   },
-  casa_html: {
+  
+  squareroot: {
     name      : 'Squareroot',
     tag       : 'Resume',
     img       : '//preview-tf.s3.envato.com/files/97544465/Preview/01_preview.__large_preview.jpg',
@@ -159,7 +160,7 @@ $items = {
     tooltip   : 'Resume WordPress Theme'
   },
 
-  takeaway_html: {
+  montana: {
     name      : 'Montana',
     tag       : 'Multipurpose',
     img       : '//preview-tf.s3.envato.com/files/96588362/Preview/01_preview.__large_preview.jpg',
